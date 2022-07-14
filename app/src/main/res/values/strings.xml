@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Estarta Task</string>
+    <string name="text_item_title">"Title: "</string>
+    <string name="text_item_price">"Price: "</string>
+    <string name="text_item_id">"ID: "</string>
+    <string name="text_item_created">"Created at: "</string>
+</resources>
